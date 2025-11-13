@@ -12,13 +12,13 @@ It connects talented professionals with employers by allowing users to **post, b
 
 #  Live Preview 🌸
 - Client: https://super-talent-client.netlify.app
-- Server:  
+- Server:  https://super-server-3.onrender.com
 
 
 
 
 # Clone Repository
-git clone
+git clone  https://github.com/Sajib99design/super-server.git
 
 
 
